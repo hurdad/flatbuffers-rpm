@@ -1,6 +1,6 @@
 # flatbuffers-rpm
 SHELL := /bin/bash 
-version = 1.9.0
+version = 1.12.0
 name = flatbuffers
 full_name = $(name)-$(version)
 download_url = "https://github.com/google/$(name)/archive/v$(version).tar.gz"
